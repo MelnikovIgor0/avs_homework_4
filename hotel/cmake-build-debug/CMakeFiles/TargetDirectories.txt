@@ -1,0 +1,3 @@
+F:/documents/авс/idz4/hotel/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+F:/documents/авс/idz4/hotel/cmake-build-debug/CMakeFiles/hotel.dir
+F:/documents/авс/idz4/hotel/cmake-build-debug/CMakeFiles/edit_cache.dir

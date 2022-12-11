@@ -1,0 +1,11 @@
+# ninja log v5
+5	793	6924704129147614	CMakeFiles/hotel.dir/source_for_4.cpp.obj	d8fb1be9c147c053
+1	209	6924749298862053	build.ninja	d04aa057a4b6d466
+0	770	6924744621259653	CMakeFiles/hotel.dir/source_for_7.cpp.obj	1bfd1c71a19697f8
+4	149	6924745685932557	hotel.exe	8330273631f6e7dc
+4	738	6924744729393201	CMakeFiles/hotel.dir/source_for_6.cpp.obj	cc031b61e9795ce5
+1	243	6924749298862053	build.ninja	d04aa057a4b6d466
+0	897	6924749308672044	CMakeFiles/hotel.dir/source_for_8.cpp.obj	17ccdef31cc96436
+897	1043	6924749310086432	hotel.exe	cc697ecb09cce218
+6	757	6924749559282441	CMakeFiles/hotel.dir/source_for_8.cpp.obj	17ccdef31cc96436
+758	902	6924749560694903	hotel.exe	cc697ecb09cce218
